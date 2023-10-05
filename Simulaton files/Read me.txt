@@ -1,0 +1,3 @@
+Open the LED_lamp proteus file and upload the IR_remote_with_pwm.ino.hex file to ATtiny85.
+
+Click Run
