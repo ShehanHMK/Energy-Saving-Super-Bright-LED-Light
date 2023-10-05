@@ -1,3 +1,6 @@
 # Energy-Saving-Super-Bright-LED-Light
 
-## {Project Description} {#002296}
+<span style="color:red">
+## Project Description
+</span>
+
