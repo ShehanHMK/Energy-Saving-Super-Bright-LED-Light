@@ -36,7 +36,7 @@ Consist of 4 mosfet based constant current sources. Current limit of those sourc
 
 
 <img src="https://github.com/ShehanHMK/Energy-Saving-Super-Bright-LED-Light/assets/121402775/13024d29-f5ca-4a4e-96aa-332f408ee1dd" width = "500" />
-------
+---
 <img src="https://github.com/ShehanHMK/Energy-Saving-Super-Bright-LED-Light/assets/121402775/c47795af-b249-4706-a1d4-3a818656511c" width="300" />
 
 
@@ -47,10 +47,29 @@ Consist of 4 mosfet based constant current sources. Current limit of those sourc
 
 4 Led channels with 7 series high power 1W led in each string are mounted on a PCB with aluminium as the base material. It provides a good thermal conductivity and acts a heat sink to each of those 1W small led bulbs.
 
+<img src="https://github.com/ShehanHMK/Energy-Saving-Super-Bright-LED-Light/assets/121402775/6e55a20e-0956-4ee6-a854-ab207a088dd6" width = "500" />
+---
+<img src="https://github.com/ShehanHMK/Energy-Saving-Super-Bright-LED-Light/assets/121402775/8b624231-9019-4f98-b2cc-755ac6e3ed00" width = "300" />
 
 
+### Schematic designs and PCB layouts were designed using _Altium Designer_ software and printed fron [JLC PCB](https://jlcpcb.com/) .
+
+-----
+
+## ***Enclosure***
+
+An Enclosure to mount the LED panel and another enclosure to place the SMPS and driver circuit were designed using _Solidworks 3D_ software and manufactured using 3D printing.
+
+<img src="https://github.com/ShehanHMK/Energy-Saving-Super-Bright-LED-Light/assets/121402775/4a5e9ec0-d02e-41c5-9335-3394c3c6d7ba" width = "400" />
+---
+<img src="https://github.com/ShehanHMK/Energy-Saving-Super-Bright-LED-Light/assets/121402775/88b30cfa-effb-4478-9212-23a92762b23c" width = "400" />
 
 
+-----
+
+## ***Assembled LED Light***
+
+<img src="https://github.com/ShehanHMK/Energy-Saving-Super-Bright-LED-Light/assets/121402775/ac024643-c4e0-4d6a-b652-9c32de854765" width = "600" />
 
 
 
